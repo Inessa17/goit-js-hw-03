@@ -1,3 +1,4 @@
+
 function filterArray(numbers, value) {
   let newArray = [];
   for (const number of numbers) {
